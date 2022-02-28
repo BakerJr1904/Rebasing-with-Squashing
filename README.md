@@ -6,6 +6,5 @@ Before you merge a feature branch back into your main branch, your feature branc
 ### First lets look at the difference between squash and rebase?
 Squash does not touch your source branch, and creates a single commit where you want.<br/>
 Rebase allows you to go on on the same source branch with a cleaner history.<br/>
-As a general rule, when merging a pull request from a feature branch with a messy commit history, you should squash your commits. There 
-
+As a general rule, when merging a pull request from a feature branch with a messy commit history, you should squash your commits. There are exceptions, but in most cases, squashing results in a cleaner Git history that's easier for the team to read.
 
