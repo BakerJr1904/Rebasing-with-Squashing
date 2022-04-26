@@ -1,4 +1,4 @@
-# Rebasing with-Squashing
+# Rebasing with Squashing
 Lets make our history clean by creating a single commit for every feature branch.<br/><br/>
 Can you squash and rebase?<br/>
 YES! It's simple and called: The squash rebase workflow.
