@@ -22,5 +22,4 @@ Commit squashing has the benefit of keeping your git history tidy and easier to 
 ### Why would you want to Rebase your history?
 
 Rebase compresses all the changes into a single “patch.” Then it integrates the patch onto the target branch. In the process, the unwanted history is eliminated.<br/>
-
 ![Squashing](https://user-images.githubusercontent.com/65743503/156008211-678fbb2f-9470-4de7-9730-7879334604f6.png)
