@@ -20,5 +20,6 @@ As a general rule, when merging a pull request from a feature branch with a mess
 Commit squashing has the benefit of keeping your git history tidy and easier to digest than the alternative created by merge commits. When you run git merge, your HEAD branch will generate a new commit, preserving the ancestry of each commit history. squashing retains the changes but omits the individual commits from history.
 
 ### Why would you want to Rebase your history?
+
 Rebase compresses all the changes into a single “patch.” Then it integrates the patch onto the target branch. In the process, the unwanted history is eliminated.<br/>
 ![Squashing](https://user-images.githubusercontent.com/65743503/156008211-678fbb2f-9470-4de7-9730-7879334604f6.png)
